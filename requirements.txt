@@ -1,0 +1,12 @@
+opencv-python
+pyyaml
+python-dotenv
+python-telegram-bot
+pytest
+sqlalchemy
+mysqlclient
+cryptography
+pymysql
+art
+gdown
+ultralytics
