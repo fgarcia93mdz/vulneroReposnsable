@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.example.plan-de-negocio-2025</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/ruta/al/archivo/plan-de-negocio-2025.pdf.app/Contents/MacOS/plan-de-negocio-2025</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>
